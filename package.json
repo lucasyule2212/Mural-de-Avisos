@@ -1,0 +1,23 @@
+{
+  "name": "mural-de-avisos",
+  "version": "1.0.0",
+  "description": "Projeto Mural de Avisos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasyule2212/Mural-de-Avisos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasyule2212/Mural-de-Avisos/issues"
+  },
+  "homepage": "https://github.com/lucasyule2212/Mural-de-Avisos#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
