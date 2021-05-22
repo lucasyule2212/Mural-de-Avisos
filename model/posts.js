@@ -4,7 +4,7 @@ module.exports={
             title:"Teste",
             description:"Teste de post",
             date:"20/05/2021",
-            urgency:"green"
+            urgency:"danger"
         },
     ],
 

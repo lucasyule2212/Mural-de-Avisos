@@ -6,3 +6,6 @@
 .newEventText:hover{
     font-size: 1.4rem;
 }
+#mural{
+    max-height: 70vh;
+}
