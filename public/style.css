@@ -9,3 +9,6 @@
 #mural{
     max-height: 70vh;
 }
+#deletePostBtn:hover{
+    cursor: pointer;
+}
